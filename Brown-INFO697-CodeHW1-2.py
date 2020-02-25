@@ -14,6 +14,8 @@ while True:
     mbtemp = temperature()
     # microbit gets compass heading
     mbheading = compass.heading()
+    # rint heading and temperature
+    print(mbheading, ",", mbtemp)
     # microbit displays temperature
     display.scroll(str(mbtemp) + 'C')
     # microbit displays compass heading
