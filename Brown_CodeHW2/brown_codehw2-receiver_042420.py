@@ -1,6 +1,9 @@
 # Diedre Brown; 24 April 2020 Code HW#2A - Receiver Code
 # Final Project-Interact/Feedback:A Prototype
 
+# code adapted from Pratt School of Information INFO 697 at Pratt Institute with Dr. Maceli and Basem Ali
+# https://github.com/Pratt-Institute/MicroPython4MicroBit/blob/master/radio-view-messages.py
+
 import radio
 from microbit import *
 
